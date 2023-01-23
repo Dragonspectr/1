@@ -1,0 +1,32 @@
+{
+    "name": "Witch Class",
+    "title": "Witch Class",
+    "description": "A module containing the exported Witch Class compendium.",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "compatibility": {
+        "minimum": 10,
+        "verified": 10,
+        "maximum": 11
+    },
+    "authors": [
+        {
+            "name": "Rob",
+            "email": "",
+            "url": ""
+        }
+    ],
+    "packs": [
+        {
+            "type": "Item",
+            "label": "Witch Class",
+            "module": "Witch Class",
+            "path": "packs/test-witch-class-1674166311406.db",
+            "name": "test-witch-class-1674166311406",
+            "system": "dnd5e"
+        }
+    ],
+    "manifest": "https://localhost/compendium2module/Witch%20Class/module.json",
+    "download": "https://localhost/compendium2module/Witch%20Class/module-zip.txt"
+}
